@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\testbox\\demoapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\controllers\\v3\\employeecontrollerv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:controllers\\v3\\employeecontrollerv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\filters\\replaceversionwithexactvalueinpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:filters\\replaceversionwithexactvalueinpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\filters\\removeversionfromparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:filters\\removeversionfromparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\controllers\\v2\\employeecontrollerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:controllers\\v2\\employeecontrollerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\controllers\\v1\\employeecontrollerv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:controllers\\v1\\employeecontrollerv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\demoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:demoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\data\\employeedatacanada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:data\\employeedatacanada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\data\\iemployeedatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:data\\iemployeedatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\model\\employeecanada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:model\\employeecanada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|d:\\workspace\\testbox\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A1B8E8-BE44-4B18-A332-56199463DC49}|demoapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "demoapi.http",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\demoapi.http",
+              "RelativeDocumentMoniker": "demoapi.http",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\demoapi.http",
+              "RelativeToolTip": "demoapi.http",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-07T04:17:33.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDataCanada.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Data\\EmployeeDataCanada.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeDataCanada.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Data\\EmployeeDataCanada.cs",
+              "RelativeToolTip": "Data\\EmployeeDataCanada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:09:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeControllerV1.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Controllers\\V1\\EmployeeControllerV1.cs",
+              "RelativeDocumentMoniker": "Controllers\\V1\\EmployeeControllerV1.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Controllers\\V1\\EmployeeControllerV1.cs",
+              "RelativeToolTip": "Controllers\\V1\\EmployeeControllerV1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:11:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:14:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReplaceVersionWithExactValueInPath.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Filters\\ReplaceVersionWithExactValueInPath.cs",
+              "RelativeDocumentMoniker": "Filters\\ReplaceVersionWithExactValueInPath.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Filters\\ReplaceVersionWithExactValueInPath.cs",
+              "RelativeToolTip": "Filters\\ReplaceVersionWithExactValueInPath.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:30:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeControllerV2.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Controllers\\V2\\EmployeeControllerV2.cs",
+              "RelativeDocumentMoniker": "Controllers\\V2\\EmployeeControllerV2.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Controllers\\V2\\EmployeeControllerV2.cs",
+              "RelativeToolTip": "Controllers\\V2\\EmployeeControllerV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:11:24.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeControllerV3.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Controllers\\V3\\EmployeeControllerV3.cs",
+              "RelativeDocumentMoniker": "Controllers\\V3\\EmployeeControllerV3.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Controllers\\V3\\EmployeeControllerV3.cs",
+              "RelativeToolTip": "Controllers\\V3\\EmployeeControllerV3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:12:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveVersionFromParameter.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Filters\\RemoveVersionFromParameter.cs",
+              "RelativeDocumentMoniker": "Filters\\RemoveVersionFromParameter.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Filters\\RemoveVersionFromParameter.cs",
+              "RelativeToolTip": "Filters\\RemoveVersionFromParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:29:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeDataSource.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Data\\IEmployeeDataSource.cs",
+              "RelativeDocumentMoniker": "Data\\IEmployeeDataSource.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Data\\IEmployeeDataSource.cs",
+              "RelativeToolTip": "Data\\IEmployeeDataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:17:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T05:03:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:24:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Data\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeData.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Data\\EmployeeData.cs",
+              "RelativeToolTip": "Data\\EmployeeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:38:55.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "demoapi",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\demoapi.csproj",
+              "RelativeDocumentMoniker": "demoapi.csproj",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\demoapi.csproj",
+              "RelativeToolTip": "demoapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T07:20:37.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeCanada.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Model\\EmployeeCanada.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeeCanada.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Model\\EmployeeCanada.cs",
+              "RelativeToolTip": "Model\\EmployeeCanada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:11:38.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:23:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\workspace\\testbox\\demoapi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\workspace\\testbox\\demoapi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T04:17:10.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

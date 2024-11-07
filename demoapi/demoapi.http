@@ -1,0 +1,42 @@
+@demoapi_HostAddress = http://localhost:5122
+
+# V1 Endpoints
+GET {{demoapi_HostAddress}}/api/v1/employee/
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v1/employee/1
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v1/employee/name/John
+Accept: application/json
+
+###
+
+# V2 Endpoints (Excludes Salary in the response)
+GET {{demoapi_HostAddress}}/api/v2/employee/
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v2/employee/1
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v2/employee/name/John
+Accept: application/json
+
+###
+
+# V3 Get by Position (including Salary)
+GET {{demoapi_HostAddress}}/api/v3/employee/position/Developer
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v3/employee/position/Teacher
+Accept: application/json
+
+# V3 Endpoints (Uses Canadian data source)
+GET {{demoapi_HostAddress}}/api/v3/employee/
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v3/employee/1
+Accept: application/json
+
+GET {{demoapi_HostAddress}}/api/v3/employee/name/John
+Accept: application/json
