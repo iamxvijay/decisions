@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\testbox\\demoapi\\demoapi.csproj": {}
+    "D:\\workspace\\testbox\\decisions\\demoapi\\demoapi.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\testbox\\demoapi\\demoapi.csproj": {
+    "D:\\workspace\\testbox\\decisions\\demoapi\\demoapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\testbox\\demoapi\\demoapi.csproj",
+        "projectUniqueName": "D:\\workspace\\testbox\\decisions\\demoapi\\demoapi.csproj",
         "projectName": "demoapi",
-        "projectPath": "D:\\workspace\\testbox\\demoapi\\demoapi.csproj",
+        "projectPath": "D:\\workspace\\testbox\\decisions\\demoapi\\demoapi.csproj",
         "packagesPath": "C:\\Users\\bkvij\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\testbox\\demoapi\\obj\\",
+        "outputPath": "D:\\workspace\\testbox\\decisions\\demoapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bkvij\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,9 +46,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Versioning": {
+            "Asp.Versioning.Mvc": {
               "target": "Package",
-              "version": "[5.1.0, )"
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

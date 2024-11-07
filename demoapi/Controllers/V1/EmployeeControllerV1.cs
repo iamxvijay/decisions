@@ -2,11 +2,12 @@
 using DemoApi.Models;
 using DemoApi.Data;
 using System.Linq;
+using Asp.Versioning;
 
 namespace DemoApi.Controllers.V1
 {
     [ApiController]
-    [Route("api/v{version:apiVersion}/Employee")]
+    [Route("api/v1/employee")]
     [ApiVersion("1.0")]
     public class EmployeeControllerV1 : ControllerBase
     {

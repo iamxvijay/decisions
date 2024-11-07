@@ -1,15 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using DemoApi.Models;
 using DemoApi.Data;
 using System.Linq;
 using Asp.Versioning;
 
-namespace DemoApi.Controllers.V3
+namespace DemoApi.Controllers.V4
 {
     [ApiController]
-    [Route("api/v3/employee")]
-    [ApiVersion("3.0")]
-    public class EmployeeControllerV3 : ControllerBase
+    [Route("api/v4/employee")]
+    [ApiVersion("4.0")]
+    [Authorize] // Require JWT authentication for all actions in this controller
+    public class EmployeeControllerV4 : ControllerBase
     {
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
@@ -77,7 +79,6 @@ namespace DemoApi.Controllers.V3
             return Ok(employees);
         }
 
-        // New endpoint: Get employees by position, including Salary
         [HttpGet("position/{position}")]
         public IActionResult GetByPosition(string position)
         {
@@ -105,6 +106,5 @@ namespace DemoApi.Controllers.V3
 
             return Ok(employees);
         }
-
     }
 }
